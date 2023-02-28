@@ -1,0 +1,15 @@
+C:\platzi\CalculadoraHorasLaborales\bin\Debug\net7.0\CalculadoraHorasLaborales.exe
+C:\platzi\CalculadoraHorasLaborales\bin\Debug\net7.0\CalculadoraHorasLaborales.deps.json
+C:\platzi\CalculadoraHorasLaborales\bin\Debug\net7.0\CalculadoraHorasLaborales.runtimeconfig.json
+C:\platzi\CalculadoraHorasLaborales\bin\Debug\net7.0\CalculadoraHorasLaborales.dll
+C:\platzi\CalculadoraHorasLaborales\bin\Debug\net7.0\CalculadoraHorasLaborales.pdb
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\CalculadoraHorasLaborales.csproj.AssemblyReference.cache
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\CalculadoraHorasLaborales.GeneratedMSBuildEditorConfig.editorconfig
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\CalculadoraHorasLaborales.AssemblyInfoInputs.cache
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\CalculadoraHorasLaborales.AssemblyInfo.cs
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\CalculadoraHorasLaborales.csproj.CoreCompileInputs.cache
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\CalculadoraHorasLaborales.dll
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\refint\CalculadoraHorasLaborales.dll
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\CalculadoraHorasLaborales.pdb
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\CalculadoraHorasLaborales.genruntimeconfig.cache
+C:\platzi\CalculadoraHorasLaborales\obj\Debug\net7.0\ref\CalculadoraHorasLaborales.dll
